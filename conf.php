@@ -2,10 +2,10 @@
 
 global $pathToExternals;
 // set with fullpath to binary or leave empty
-$pathToExternals['rar'] = '';
-$pathToExternals['zip'] = '';
+$pathToExternals['rar'] = '/usr/bin/rar';
+$pathToExternals['zip'] = '/usr/bin/zip';
 $pathToExternals['unzip'] = '/usr/bin/unzip';
-$pathToExternals['tar'] = '';
+$pathToExternals['tar'] = '/usr/bin/tar';
 
 
 
